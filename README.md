@@ -16,3 +16,26 @@
 ## Запуск
 Из корневой дирректории вписать в терминал
 ```python src/main.py```
+
+## Реализованные функции:
+### Сортировки
+  - bubble_sort
+  - quick_sort
+  - count_sort
+  - radix_sort
+  - bucket_sort
+  - heap_sort
+### Функции
+  - factorial
+  - factorial_recursive
+  - fibo
+  - fibo_recursive
+### Стек
+  - push
+  - pop
+  - peek
+  - min
+  - len
+  - is_empty
+
+Решенные задачи с leetcode и HackerRank находятся в папке Задачи
